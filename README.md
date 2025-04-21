@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 ### ⚡ Fun Facts
 
 - I enjoy designing, coding, and working on tech projects with friends.
-- I’ve been involved in media and event organizing back in secondary school.
 - Always curious and excited to learn something new!
 
 ---
@@ -61,7 +60,7 @@ Feel free to reach out or connect:
 
 ---
 
-> “Keep learning, keep building, and always stay curious.” 🌱
+> “Keep learning, keep growing, and always stay curious.” 🌱
 <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardcheah/bernardcheah/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardcheah/bernardcheah/output/github-snake.svg" />
