@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - C
 - C++
 - HTML/CSS/Javascript
-- Dart
+- Flutter
 - Figma 
 
 🌱 I'm currently learning Flutter and exploring AI-related projects.  
