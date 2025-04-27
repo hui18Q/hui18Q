@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Fun Facts
 
-- I enjoy designing, coding, and working on tech projects with friends.
+- I enjoy designing, coding, and working on tech projects.
 - Always curious and excited to learn something new!
 
 ---
