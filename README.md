@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=F780A0&width=800&lines=Hi+there!+I'm+Wen+Hui.;I+like+building+cool+projects.;As+a+software+developer%2C+I'm+eager+to+learn.;Hit+me+up+for+exciting+collaborations!" alt="Typing SVG" /></a>
 
-<!-- need to make this into gif-->
-<img src="https://komarev.com/ghpvc/?username=hui18Q&style=flat-square&color=brightgreen&style=for-the-badge" alt="my github badge counter" align="right"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/Made_With_Love-blue?&style=for-the-badge&color=ff69b4" alt="Made with love" align="right">
-<img alt="Static Badge" src="https://img.shields.io/badge/Author-Bernard-violet?logo=github&color=blue&style=for-the-badge" alt="Author badge" align="right">
-
-<!-- If want add banner can add here -->
-
 🎓 I'm currently a diploma student with a strong interest in technology and software development.  
 💻 I love coding and currently work with:
 - C
