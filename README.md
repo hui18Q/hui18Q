@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB4BD&background=FFFFFF00&width=435&lines=Hi+there!+I'm+Wen+Hui.;I+like+building+cool+projects.;As+a+software+developer%2C+I'm+eager+to+learn.;Hit+me+up+for+exciting+collaboration!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB4BD&background=FFFFFF00&width=435&lines=Hi+there!+I'm+Wen+Hui.;I+like+building+cool+projects.;As+a+software+developer,+I'm+eager+to+learn.;Hit+me+up+for+exciting+collaboration!" alt="Typing SVG" /></a>
 
 🎓 I'm currently a diploma student with a strong interest in technology and software development.  
 💻 I love coding and currently work with:
