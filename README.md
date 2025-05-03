@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">Welcome to my GitHub Portfolio 👨‍💻✨</h2>
 
 <!--
 **hui18Q/hui18Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
