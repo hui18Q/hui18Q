@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Wen+Hui.;I+love+building+cool+projects.;As+a+software+developer,+I'm+eager+to+learn.;Hit+me+up+for+exciting+collaboration!
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Wen+Hui.;I+love+building+cool+projects.;As+a+software+developer,+I'm+eager+to+learn;Hit+me+up+for+exciting+collaboration!
 )](https://git.io/typing-svg)
 
 🎓 I'm currently a diploma student with a strong interest in technology and software development.  
