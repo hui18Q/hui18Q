@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💻 I love coding and currently work with:
 - C
 - C++
-- HTML/CSS/Javascript
+- HTML/CSS/Javascript/PHP
 - Flutter
 - Figma 
 
