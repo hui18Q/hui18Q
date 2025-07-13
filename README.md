@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 🎓 I'm currently a diploma student with a strong interest in technology and software development.  
-💻 I love coding and currently work with:
+💻 I currently work with:
 - C
 - C++
 - HTML/CSS/Javascript/PHP
