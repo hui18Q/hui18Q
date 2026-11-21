@@ -1,71 +1,59 @@
-<h1 align="center">Welcome👋</h1>
+<h1 align="center">Hi, I'm Wen Hui 👋</h1>
 
-<!--
-**hui18Q/hui18Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF7AA2&center=true&vCenter=true&width=900&lines=Computer+Science+%40+Monash+University+Malaysia;I+like+building+useful%2C+real-world+things.;Always+learning+something+new+%F0%9F%8C%B1;Open+to+exciting+collaborations!" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF7AA2&center=true&width=1500&lines=Hi+there!+I'm+Wen+Hui.;I+like+building+cool+projects.;As+a+software+developer%2C+I'm+eager+to+learn.;Hit+me+up+on+exciting+collaborations!" alt="Typing SVG" /></a>
-
-
-🎓 I'm currently a diploma student with a strong interest in technology and software development.  
-💻 I currently work with:
-- C
-- C++
-- HTML/CSS/Javascript/PHP
-- Flutter
-- Figma 
-
-🌱 I'm currently learning Flutter and exploring AI-related projects.  
-🔭 Passionate about building useful, real-world applications and growing as a developer.
+- 🎓 **Bachelor of Computer Science** student at **Monash University Malaysia**
+- 📜 Diploma in Information Technology from **Multimedia University (MMU)**. I got here by a non-linear, mostly self-taught route
+- 🌱 Currently exploring **AI-powered products**
+- 💬 Ask me about: turning a rough idea into a working demo
 
 ---
 
-### ⚡ Fun Facts
+### 🛠️ Tech Stack
 
-- I enjoy designing, coding, and working on tech projects.
-- Always curious and excited to learn something new!
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frameworks & Web**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to reach out or connect:
 <p>
-<a href="https://www.linkedin.com/in/chin-wen-hui-6096a3314">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="linkedin.png">
-    <source media="(prefers-color-scheme: light)" srcset="linkedin.png">
-    <img alt="Linkedin Icon" width="5%">
-  </picture>
-</a>
-<a href="mailto:chinwenhui2005@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="email.png">
-    <source media="(prefers-color-scheme: light)" srcset="email.png">
-    <img alt="Email Icon" width="5%">
-  </picture>
-</a>
+  <a href="https://www.linkedin.com/in/chin-wen-hui-6096a3314"><img src="linkedin.png" alt="LinkedIn" width="40" /></a>&nbsp;
+  <a href="mailto:chinwenhui2005@gmail.com"><img src="email.png" alt="Email" width="40" /></a>
 </p>
 
 ---
 
 > “Keep learning, keep growing, and always stay curious.” 🌱
+
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardcheah/bernardcheah/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardcheah/bernardcheah/output/github-snake.svg" />
-      <img alt="github-snake" src="github-snake.svg" align="center" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hui18Q/hui18Q/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hui18Q/hui18Q/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hui18Q/hui18Q/output/github-snake.svg" />
 </picture>
-
-
-
