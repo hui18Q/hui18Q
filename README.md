@@ -7,7 +7,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Bachelor of Computer Science** student at **Monash University Malaysia**
-- 📜 Diploma in Information Technology from **Multimedia University (MMU)**. I got here by a non-linear, mostly self-taught route
+- 📜 Diploma in Information Technology from **Multimedia University (MMU)**. 
 - 🌱 Currently exploring **AI-powered products**
 - 💬 Ask me about: turning a rough idea into a working demo
 
